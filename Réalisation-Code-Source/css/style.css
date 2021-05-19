@@ -1,0 +1,9 @@
+.img-fluid{
+    height: 100vh !important;
+    width: 100% !important;
+    text-align: center;
+}
+.carousel-caption{
+    position: absolute;
+    padding-bottom: 250px!important;
+}
